@@ -1,0 +1,23 @@
+1. 📥 Data Collection
+From Kaggle/ World Bank
+
+2. 🧹 Data Cleaning & Preprocessing
+Load data using pandas
+Handle missing values, duplicates, or incorrect data types.
+Rename columns for clarity and consistency.
+Filter necessary columns (e.g., Country, Year, Population, Region).
+
+3. 📊 Exploratory Data Analysis (EDA)
+Use pandas, matplotlib, and seaborn for initial exploration:
+Summary statistics: .describe()
+Grouping by region or year: groupby()
+Trends over time: lineplots
+
+4. 🌍 Data Visualization
+Use charts to visualize key trends:
+Line graphs for population growth over time.
+Bar charts for comparing countries/regions.
+Heatmaps for population density.
+Sunburst chart.
+
+
